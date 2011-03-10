@@ -1,0 +1,18 @@
+/**
+ * Glossy: Free Icon Set
+ *
+ * URL: http://sixrevisions.com/freebies/icons/glossy-free-icon-set/
+ *
+ * This downloadable freebie source file package includes 20 icons plus 48 derivatives of the icons
+ *
+ * You MAY use the files in this package for commercial purposes including software, online services, templates and themes.
+ *
+ * The files MAY NOT be resold, sublicensed, rented, transferred or otherwise made available for use.
+ * The files MAY NOT be offered for free downloading from websites other than sixrevisions.com.
+ *
+ * Six Revisions (sixrevisions.com)
+ *
+ * Author     Gopal Raju
+ * Author     Six Revisions
+ * Copyright  Gopal Raju and Six Revisions
+ */
