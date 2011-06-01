@@ -1,0 +1,19 @@
+/**
+ * Retro Candy: Free Icon Set
+ *
+ * URL: http://sixrevisions.com/freebies/icons/free-retro-candy/ 
+ *
+ * This downloadable freebie source file package includes 18
+ icons in PNG format.
+ * 
+ *
+ * You MAY use the source files in this package for commercial
+ * purposes.
+ *
+ * You MAY NOT redistribute or sell the source files in this package.
+ *
+ * Six Revisions (sixrevisions.com)
+ *
+ * Author     Jan Cavan (www.dawghousedesignstudio.com)
+ * Copyright  Jan Cavan and Six Revisions
+ */
